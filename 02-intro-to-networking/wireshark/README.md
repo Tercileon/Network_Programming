@@ -1,12 +1,15 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Wireshark
+---
+
+## Wireshark
 
 #### Reference:  [https://www.wireshark.org/docs/wsug\_html\_chunked/](https://www.wireshark.org/docs/wsug_html_chunked/)
 
 Wireshark is a GUI based protocol analyzer. It works on live traffic and PCAP files.
 
-![](../../.gitbook/assets/wireshark-home-59512deb3df78cae8135d3cd.png)
+![](/assets/wireshark-home-59512deb3df78cae8135d3cd.png)
 
 When you first launch Wireshark a welcome screen similar to the one shown above should be visible, containing a list of available network connections on your current device. In this example, you'll notice that the following connection types are shown: _Bluetooth Network Connection_, _Ethernet_, _VirtualBox Host-Only Network_, _Wi-Fi_. Displayed to the right of each is an EKG-style line graph that represents live traffic on that respective network.
 
@@ -37,4 +40,6 @@ The live capture process will now begin, with packet details displayed in the Wi
    Click on the red stop button, located next to the shark fin on the Wireshark toolbar
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/wireshark/wireshark-installation-and-setup..md" > Continue to Next Topic </a>
+
+|[Next Topic](02-intro-to-networking/wireshark/wireshark-installation-and-setup..md)|
+|---|
