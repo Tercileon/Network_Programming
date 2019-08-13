@@ -5,7 +5,7 @@
 
 ## Main
 
-![](assets/nightearth.jpg)
+![](/.gitbook/assets/nightearth.jpg)
 
 ## **Course Overview:**
 
