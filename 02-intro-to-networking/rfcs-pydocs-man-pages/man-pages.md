@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Man Pages
 
@@ -23,4 +26,6 @@ Man pages have different numbers for different sections. I typically link to man
 * man 2 &lt;function name&gt; would provide details of a specific call for sockets
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/wireshark/README.md" > Continue to Next Topic </a>
+
+|[Next Topic](/02-intro-to-networking/wireshark/README.md)|
+|---|
