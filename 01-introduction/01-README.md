@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
-# Main
+---
 
-![](/.gitbook/assets/nightearth.jpg)
+## Main
+
+![](/assets/nightearth.jpg)
 
 ## **Course Overview:**
 
@@ -16,4 +19,6 @@
 * **Advanced Functionality**
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/01-introduction/02-introduction.md" > Continue to Next Topic </a>
+
+|[Next Topic](/01-introduction/02-introduction.md)|
+|---|
