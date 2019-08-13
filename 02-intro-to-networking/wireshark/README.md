@@ -41,5 +41,5 @@ The live capture process will now begin, with packet details displayed in the Wi
 
 ---
 
-|[Next Topic](02-intro-to-networking/wireshark/wireshark-installation-and-setup..md)|
+|[Next Topic](/02-intro-to-networking/wireshark/wireshark-installation-and-setup..md)|
 |---|
