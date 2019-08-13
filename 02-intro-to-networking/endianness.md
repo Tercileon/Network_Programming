@@ -12,7 +12,7 @@ Endianness tells us how to read a grouping of bytes.
 * Big Endian - MSB is first
 * Little Endian - LSB is first
 
-![](../.gitbook/assets/endianness_example.png)
+![](/assets/endianness_example.png)
 
 ## **00xDEADBEEF \(4 bytes\)**
 
