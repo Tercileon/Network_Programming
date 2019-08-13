@@ -1,6 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Numbering Systems
+---
 
 ## **Numbering Systems**
 
@@ -56,7 +57,7 @@ Convert 2A into decimal
 
 \(2\*16\) + \(A\*1\) = \(2\*16\) + \(10\*1\) = 32+10 = 42
 
-![](../.gitbook/assets/htod.PNG)
+![](/assets/htod.PNG)
 
 ### Convert Binary to Hexadecimal
 
@@ -92,7 +93,7 @@ Luckily, this conversion is easy once you have four numbers and know what they a
 
 **Add your four numbers together.**
 
-![](../.gitbook/assets/aid1517259-v4-900px-convert-binary-to-hexadecimal-step-5.jpg)
+![](/assets/aid1517259-v4-900px-convert-binary-to-hexadecimal-step-5.jpg)
 
 **Final answer:**
 
@@ -128,7 +129,7 @@ Once you've converted all the 4-digit parts, simply ram them together to get you
 * 3          B         2         9
 * **11101100101001 = 3B29**
 
-![](../.gitbook/assets/htob.PNG)
+![](/assets/htob.PNG)
 
 ### **Convert long binary string to Decimal**
 
@@ -140,9 +141,11 @@ Once you've converted all the 4-digit parts, simply ram them together to get you
 
 ### Convert Decimal to Hex
 
-![](../.gitbook/assets/dtoh.PNG)
+![](/assets/dtoh.PNG)
 
 ## ........ = 0xF00D
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/endianness.md" > Continue to Next Topic </a>
+
+|[Next Topic](/02-intro-to-networking/endianness.md)|
+|---|
