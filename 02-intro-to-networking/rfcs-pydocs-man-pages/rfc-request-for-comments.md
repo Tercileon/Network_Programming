@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # RFC - Request For Comments
 
@@ -18,4 +21,5 @@ Stack Overflow is still a highly useful site, just use it to supplement/validate
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/rfcs-pydocs-man-pages/pydocs.md" > Continue to Next Topic </a>
+|[Next Topic](/02-intro-to-networking/rfcs-pydocs-man-pages/pydocs.md)|
+|---|
