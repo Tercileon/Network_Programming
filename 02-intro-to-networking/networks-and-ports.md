@@ -27,7 +27,7 @@
 
 ## **Common Ports** 
 
-![](../.gitbook/assets/ports.PNG)
+![](/assets/ports.PNG)
 
 ### Port numbers &lt; 1024 are considered "privileged" ports
 
@@ -41,5 +41,5 @@
 
 ---
 
-|[Next Topic](02-intro-to-networking/numbering-systems.md)|
+|[Next Topic](/02-intro-to-networking/numbering-systems.md)|
 |---|
