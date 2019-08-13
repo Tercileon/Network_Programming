@@ -1,17 +1,18 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table Of Contents](00-Table-of-Contents.md)|
+|---|
 
-# Networks and Ports
+---
 
 ## Networks and Ports
 
-![](../.gitbook/assets/1.PNG)
+![](/assets/1.PNG)
 
 ### Two Main Issues
 
 * Addressing - Specifying a remote computer and service 
 * Data transport - Moving bits back and forth
 
-![](../.gitbook/assets/2.PNG)
+![](/assets/2.PNG)
 
 #### Each endpoint of a network connection is always represented by a host \(URL/Domain/IP\) and port.
 
@@ -39,4 +40,6 @@
 ### If you do not bind to a port as a TCP client/UDP sender, you will get a random high number port automatically assigned to your process. This is called an “ephemeral port”.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/numbering-systems.md" > Continue to Next Topic </a>
+
+|[Next Topic](02-intro-to-networking/numbering-systems.md)|
+|---|
