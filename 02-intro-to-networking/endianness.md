@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|Table of Contents|(/00-Table-of-Contents.md)|
+|---|
 
-# Endianness
+---
+
+## Endianness
 
 A number is represented by a sequence of bytes. A 32 bit integer is 4 bytes.
 
@@ -26,4 +29,6 @@ Endianness tells us how to read a grouping of bytes.
 ### Know what endian your data is in or you will have problems with binary data
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/rfcs-pydocs-man-pages/README.md" > Continue to Next Topic </a>
+
+|[Next Topic](/02-intro-to-networking/rfcs-pydocs-man-pages/README.md)|
+|---|
