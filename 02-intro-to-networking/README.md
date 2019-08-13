@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table Of Contents](00-Table-of-Contents.md)|
+|---|
 
-# Intro to Networking
+---
+
+## Intro to Networking
 
 ### Overview
 
@@ -24,5 +27,6 @@
 * Use ifconfig/ipconfig
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/networks-and-ports.md" > Continue to Next Topic </a>
 
+|[Next Topic](02-intro-to-networking/networks-and-ports.md)|
+|---|
