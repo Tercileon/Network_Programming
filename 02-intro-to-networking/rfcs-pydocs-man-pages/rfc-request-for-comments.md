@@ -21,5 +21,5 @@ Stack Overflow is still a highly useful site, just use it to supplement/validate
 
 ---
 
-|[Next Topic](/02-intro-to-networking/rfcs-pydocs-man-pages/pydocs.md)|
+|[Next Topic](/02-intro-to-networking/rfcs-pydocs-man-pages/man-pages.md)|
 |---|
