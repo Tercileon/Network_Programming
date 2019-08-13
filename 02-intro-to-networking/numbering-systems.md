@@ -93,7 +93,7 @@ Luckily, this conversion is easy once you have four numbers and know what they a
 
 **Add your four numbers together.**
 
-![](/assets/aid1517259-v4-900px-convert-binary-to-hexadecimal-step-5.jpg)
+![](/assets/aid1517259-v4-900px-Convert-Binary-to-Hexadecimal-Step-5.jpg)
 
 **Final answer:**
 
