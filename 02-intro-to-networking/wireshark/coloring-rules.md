@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Coloring Rules
 
-![](../../.gitbook/assets/wireshark-colors-59512e8f3df78cae8137715b.png)
+![](/assets/wireshark-colors-59512e8f3df78cae8137715b.png)
 
 While Wireshark's capture and display filters allow you to limit which packets are recorded or shown on the screen, its colorization functionality takes things a step further by making it easy to distinguish between different packet types based on their individual hue. This handy feature lets you quickly locate certain packets within a saved set by their row's color scheme in the packet list pane.
 
@@ -14,4 +17,5 @@ Packet colorization can be toggled off and on via the _Colorize Packet List_ opt
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/netcat.md" > Continue to Next Topic </a>
+|[Next Topic](/02-intro-to-networking/netcat.md)|
+|---|
