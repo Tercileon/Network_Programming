@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Ethernet Header
+---
 
-![](../.gitbook/assets/ethernet-frame-explained.png)
+## Ethernet Header
+
+![](/assets/ethernet-frame-explained.png)
 
 **Source MAC Address** - Originator of the traffic.
 
@@ -14,4 +17,6 @@
 * See references page...
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/04-osi-layer-2/mtu-and-fragmentation.md" > Continue to Next Topic </a>
+
+|[Next Topic](/04-osi-layer-2/mtu-and-fragmentation.md)|
+|---|
