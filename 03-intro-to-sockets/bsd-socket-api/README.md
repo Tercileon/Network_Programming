@@ -7,7 +7,7 @@
 
 * **Internet Protocol Suite**
 
-![](/assets/ip_stack_connections.svg.png)
+![](/assets/IP_stack_connections.svg.png)
 
 [https://en.wikipedia.org/wiki/Internet\_protocol\_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
