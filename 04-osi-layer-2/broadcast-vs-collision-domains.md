@@ -5,7 +5,7 @@
 
 ## Broadcast vs Collision Domains
 
-![](../.gitbook/assets/data-transfer-domains.jpg)
+![](/assets/data-transfer-domains.jpg)
 
 **Collision domain**
 
