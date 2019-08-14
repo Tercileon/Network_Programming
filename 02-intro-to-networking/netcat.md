@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Netcat
 
@@ -57,4 +60,5 @@ connection terminates\)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/02-intro-to-networking/review.md" > Continue to Next Topic </a>
+|[Next Topic](/02-intro-to-networking/review.md)|
+|---|
