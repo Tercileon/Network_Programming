@@ -21,5 +21,5 @@ If the DESTINATION MAC is a broadcast address, then forward it out ALL ports EXC
 
 ---
 
-|[Next Topic](04-osi-layer-2/ethernet-header.md)|
+|[Next Topic](/04-osi-layer-2/ethernet-header.md)|
 |---|
