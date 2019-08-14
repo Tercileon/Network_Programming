@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Data Encapsulation and The TCP/IP Model
+---
+
+## Data Encapsulation and The TCP/IP Model
 
 ![](/assets/encapsulation.PNG)
 
