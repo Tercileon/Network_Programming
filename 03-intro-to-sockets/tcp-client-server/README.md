@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# TCP Client/Server
+---
 
-![Differences between TCP and UDP connections](../../.gitbook/assets/tcpvudp.PNG)
+## TCP Client/Server
+
+![Differences between TCP and UDP connections](/assets/tcpvudp.PNG)
 
 **Connection-oriented** 
 
@@ -21,4 +24,6 @@
 **TCP Services live at specific ports**
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/tcp-client-server/order-of-operations.md" > Continue to Next Topic </a>
+
+|[Next Topic](/03-intro-to-sockets/tcp-client-server/order-of-operations.md)|
+|---|
