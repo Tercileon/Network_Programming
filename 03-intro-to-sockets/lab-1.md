@@ -1,12 +1,15 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 1-1
+---
+
+## Lab 1
 
 In this exercise, we experiment with setting up a network connection between two different Python interpreters.
 
 On Windows, go to the "Start" menu and run the "Python \(command line\)" program. This should pop up a command window where you can directly interact with a Python interpreter.
 
-![](../.gitbook/assets/python-cmd.PNG)
+![](/assets/python-cmd.PNG)
 
 If you want to run it in Linux you can use the Terminal.
 
@@ -159,4 +162,6 @@ Send an HTML greeting back to the browser:
 Congratulations! You have now made an extremely simple web server.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/lab-1-2.md" > Continue to Lab 1-2 </a>
+
+|[Sockets Lab 2](/03-intro-to-sockets/lab 2.md)|
+|---|
