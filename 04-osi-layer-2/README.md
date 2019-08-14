@@ -1,6 +1,9 @@
 |[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# OSI Layer 2
+---
+
+## OSI Layer 2
 
 ### **Overview**
 
@@ -23,5 +26,6 @@
 * Set socket options
 
 ---
+
 |[Next Topic](04-osi-layer-2/data-encapsulation.md)|
 |---|
