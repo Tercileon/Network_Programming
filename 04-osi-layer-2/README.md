@@ -27,5 +27,5 @@
 
 ---
 
-|[Next Topic](04-osi-layer-2/data-encapsulation.md)|
+|[Next Topic](/04-osi-layer-2/data-encapsulation.md)|
 |---|
