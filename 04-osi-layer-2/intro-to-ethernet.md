@@ -5,7 +5,7 @@
 
 ## Intro to Ethernet
 
-![](../.gitbook/assets/physical.PNG)
+![](/assets/physical.PNG)
 
  Ethernet is a family of technologies used to connect LANs and WANs. It has used several different physical mediums over time from coaxial, to twisted pair, and now fiber.
 
