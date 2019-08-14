@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# MTU and Fragmentation
+---
+
+## MTU and Fragmentation
 
 Maximum Transmission Unit is the maximum size of the payload on a given link-layer \(Layer 2\) protocol. \(1500 bytes for Ethernet\).
 
@@ -15,4 +18,6 @@ MTU can vary at each hop. This means it is possible for every node on the path t
 Packets larger than MTU are dropped and an ICMP message is returned to the sender indicating the packet is too big.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/04-osi-layer-2/broadcast-vs-collision-domains.md" > Continue to Next Topic </a>
+
+|[Next Topic](/04-osi-layer-2/broadcast-vs-collision-domains.md)|
+|---|
