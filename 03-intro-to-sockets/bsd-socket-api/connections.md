@@ -33,5 +33,5 @@ In python, these are constants defined as part of the socket module.
 
 ---
 
-|[Next Topic]|(/03-intro-to-sockets/bsd-socket-api/client-server-model.md)|
+|[Next Topic](/03-intro-to-sockets/bsd-socket-api/client-server-model.md)|
 |---|
