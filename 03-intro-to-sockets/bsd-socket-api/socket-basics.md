@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Socket Basics
+---
+
+## Socket Basics
 
 **Reference:** [https://docs.python.org/2/library/socket.html?highlight=pton\#module-socket](https://docs.python.org/2/library/socket.html?highlight=pton#module-socket)
 
@@ -43,4 +46,6 @@
 * By default, accept\(\) will block until a connection is received
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/udp-client-server/README.md" > Continue to Next Topic </a>
+
+|[Next Topic](/03-intro-to-sockets/udp-client-server/README.md)|
+|---|
