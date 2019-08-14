@@ -11,7 +11,7 @@
 
 [https://en.wikipedia.org/wiki/Internet\_protocol\_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
-![](/assets/ineternet-socket.png)
+![](/assets/internet-socket.png)
 
 Sockets are the abstraction that allow applications to communicate with each other. Socket programming allows us to control the functionality of the interface between ports and applications. Another way to think of them, is they're a way to speak to other programs using standard Unix file descriptors. Since everything in Unix/Linux is a file.
 
