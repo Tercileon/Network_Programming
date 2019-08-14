@@ -5,8 +5,6 @@
 
 ## Order of Operations
 
-![](/assets/image%20%2813%29.png)
-
 ## TCP Client Order of Operations
 
 * **socket\(\)** – Get a socket descriptor
