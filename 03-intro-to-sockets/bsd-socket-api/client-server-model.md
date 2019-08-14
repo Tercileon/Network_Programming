@@ -1,6 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Client/Server Model
+---
 
 ## Client/Server Model
 
@@ -8,7 +9,7 @@
 * Clients make connections to servers
 * Each endpoint is a running program
 
-  ![](../../.gitbook/assets/client_server.PNG)
+![](/assets/client_server.PNG)
 
 ## Request/Response Cycle
 
@@ -32,4 +33,6 @@
 * Close the connection \(of course the server continues to listen for more clients\)
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/bsd-socket-api/major-system-calls.md" > Continue to Next Topic </a>
+
+|[Next Topic](/03-intro-to-sockets/bsd-socket-api/major-system-calls.md)|
+|---|
