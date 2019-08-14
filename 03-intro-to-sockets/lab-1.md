@@ -163,5 +163,5 @@ Congratulations! You have now made an extremely simple web server.
 
 ---
 
-|[Sockets Lab 2](/03-intro-to-sockets/lab 2.md)|
+|[Sockets Lab 2](/03-intro-to-sockets/lab-1-2.md)|
 |---|
