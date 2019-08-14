@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Review
+---
+
+## Review
 
 * Describe the different layers of OSI and TCP/IP Models
 * Discuss String-based Protocol
@@ -13,4 +16,6 @@
 * Programmatically access web pages
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/summary.md" > Continue to Next Topic </a>
+
+|[Next Topic](/03-intro-to-sockets/summary.md)|
+|---|
