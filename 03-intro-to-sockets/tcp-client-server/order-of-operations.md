@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contacts](/00-Table-of-Contents.md)|
+|---|
 
-# Order of Operations
+---
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+## Order of Operations
+
+![](/assets/image%20%2813%29.png)
 
 ## TCP Client Order of Operations
 
@@ -32,4 +35,6 @@
 `accept_socket, remote = sock.accept`
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/03-intro-to-sockets/tcp-client-server/sendall.md" > Continue to Next Topic </a>
+
+|[Next Topic](/03-intro-to-sockets/tcp-client-server/sendall.md)|
+|---|
