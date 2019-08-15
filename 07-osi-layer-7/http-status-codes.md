@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# HTTP Status Codes
+---
+
+## HTTP Status Codes
 
 The status code is a three-digit integer, and the first digit identifies the general category of response.
 
@@ -47,4 +50,5 @@ Below are some common ones:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/https.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/https.md)|
+|---|
