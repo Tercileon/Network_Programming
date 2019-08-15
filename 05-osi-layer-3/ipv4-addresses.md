@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# IPv4 Addresses
+---
+
+## IPv4 Addresses
 
 IPv4 Addresses are represented in “dotted decimal” notation.
 
@@ -18,11 +21,12 @@ In the Internet addressing architecture, the Internet Engineering Task Force \(I
 
 IPv4
 
-![](../.gitbook/assets/ipv4.PNG)
+![](/assets/ipv4.PNG)
 
 IPv6
 
-![](../.gitbook/assets/ipv6.PNG)
+![](/assets/ipv6.PNG)
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/ipv4-address-classes.md" > Continue to Next Topic </a>
+|[Next Topic](/05-osi-layer-3/ipv4-address-classes.md)|
+|---|
