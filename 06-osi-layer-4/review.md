@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Review
+---
+
+## Review
 
 * Identify Network Devices at each layer of the OSI model \(Layer 1-4\)
 * Send and receive Unicast/Broadcast/Multicast/Anycast traffic
@@ -8,4 +11,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/summary.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/summary.md)|
+|---|
