@@ -41,11 +41,11 @@ If you bitwise AND an IP and a subnet mask, you will get the network IP.
 
 ## Class B Subnets
 
-![](/assets/subnetb.png)
+![](/assets/subnetB.png)
 
 ## Class C Subnets
 
-![](/assets/subnetc.png)
+![](/assets/subnetC.png)
 
 ---
 
