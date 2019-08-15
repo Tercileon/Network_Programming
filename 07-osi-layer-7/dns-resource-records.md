@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# DNS Resource Records
+---
+
+## DNS Resource Records
 
 Within a zone file, records are kept. In its simplest form, a record is basically a single mapping between a resource and a name. These can map a domain name to an IP address, define the name servers for the domain, define the mail servers for the domain, etc.
 
-## Resource Record Types
+### Resource Record Types
 
 Different types of records contain different types of host information. For example, an Address record provides the name-to-address mapping for a given host, while a Start of Authority \(SOA\) record specifies the start of authority for a given zone.
 
@@ -38,7 +41,7 @@ A DNS zone must contain several types of resource records for DNS to function pr
 | WKS | Protocol and bit map fields |
 | X25 | PSDN address |
 
-## DNS Record Format
+### DNS Record Format
 
 **Owner** - Name of domain
 
@@ -52,4 +55,5 @@ A DNS zone must contain several types of resource records for DNS to function pr
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/soa-records.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/soa-records.md)|
+|---|
