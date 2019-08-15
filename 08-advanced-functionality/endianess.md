@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Endianess
+---
+
+## Endianess
 
 By default values are encoded using the native C library notion of “endianness”. It is easy to override that choice by providing an explicit endianness directive in the format string.
 
@@ -61,10 +64,11 @@ Packed Value   : 000000016162402ccccd
 Unpacked Value : (1, 'ab', 2.700000047683716)
 ```
 
-## See also:
+### See also:
 
 **WikiPedia: Endianness** - Explanation of byte order and endianness in encoding. \([https://en.wikipedia.org/wiki/Endianness](https://en.wikipedia.org/wiki/Endianness%29%29\)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/reusing-socket-addresses.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/reusing-socket-addresses.md)|
+|---|
