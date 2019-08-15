@@ -35,7 +35,8 @@ s.send(moredata)        <------
                                |
 # Sever                        |
 ...                            |
-data = s.recv(maxsize)  <----- This recv() may return data from both of the sends cobined or less data thane even the first send
+data = s.recv(maxsize)  <----- This recv() may return data from both of the sends cobined
+                               or less data thane even the first send
 ...
 ```
 
@@ -49,15 +50,6 @@ data = s.recv(maxsize)  <----- This recv() may return data from both of the send
 * Blocks until all data is transmitted
 * For most normal applications, this is what you should use
 * Exception: You don't use this if networking is mixed in iwth other kinds of processing (e.g., screen updates, multitasking, etc.)
-
-
-
-
-![](/assets/sendall1.PNG)
-
-![](/assets/sendall2.PNG)
-
-![](/assets/sendall3.PNG)
 
 ---
 
