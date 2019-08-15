@@ -7,7 +7,7 @@
 
 ![](/assets/systemcalls.PNG)
 
-|Primitive|Meaning|
+|**PRIMITIVE|MEANING**|
 |  :---:  |  ---  |
 | **Socket** | Create a new communication end point |
 | **Bind** | Attach a local address to a socket|
