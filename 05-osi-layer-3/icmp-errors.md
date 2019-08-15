@@ -29,5 +29,5 @@ Below, I've captured some anecdotal reasons you will see some common ICMP errors
 
 ---
 
-<a|[Next Topic](/05-osi-layer-3/icmp-header.md)|
+|[Next Topic](/05-osi-layer-3/icmp-header.md)|
 |---|
