@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Network Byte Order
+---
 
-Network byte order is most-significant byte first.
+## Network Byte Order
+
+Network byte order is most-significant byte first.
 
 Byte ordering at a host may differ.
 
@@ -55,5 +58,5 @@ Supported values for\_address\_family\_are currently[`AF_INET`](https://docs.pyt
 Availability: Unix \(maybe not all platforms\).
 
 ---
-
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/socket-timeout.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/socket-timeout.md)|
+|---|
