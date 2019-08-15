@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# setsockopt\(\)/getsockopt\(\)
+---
+
+## setsockopt\(\)/getsockopt\(\)
 
 Using socket options gives you some advanced options for sockets to do interesting things.
 
@@ -22,7 +25,7 @@ Return the value of the given socket option \(see the Unix man page_getsockopt\(
 
 The default socket buffer size may not be suitable in many circumstances. In such circumstances, you can change the default socket buffer size to a more suitable value.
 
-## How to do it...
+### How to do it...
 
 Let us manipulate the default socket buffer size using a socket object's`setsockopt()`method.
 
@@ -67,11 +70,11 @@ Buffer size [Before]:16384
 Buffer size [After]:8192
 ```
 
-## How it works...
+### How it works...
 
 You can call the`getsockopt()`and`setsockopt()`methods on a socket object to retrieve and modify the socket object's properties respectively. The`setsockopt()`method takes three arguments:`level`,`optname`, and`value`. Here,`optname`takes the option name and`value`is thecorrespondingvalue of that option. For the first argument, the needed symbolic constants can be found in the socket module \(`SO_*etc.`\).
 
-### See Also:
+#### See Also:
 
 [http://man7.org/linux/man-pages/man2/setsockopt.2.html](http://man7.org/linux/man-pages/man2/setsockopt.2.html)
 
@@ -79,4 +82,5 @@ You can call the`getsockopt()`and`setsockopt()`methods on a socket object to ret
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/network-byte-order.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/network-byte-order.md)|
+|---|
