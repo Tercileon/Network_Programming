@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Summary
+---
+
+## Summary
 
 * Introduction to DNS
 * DNS Servers
@@ -24,4 +27,9 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/lab-5-1.md" > Continue to Lab 5-1 </a>
+**Complete Performance Lab:** 5-1
+
+---
+
+|[Next Topic](/07-osi-layer-7/lab-5-1.md)|
+|---|
