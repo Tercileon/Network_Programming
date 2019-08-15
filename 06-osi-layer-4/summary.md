@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Summary
+---
+
+## Summary
 
 * Introduction to TCP
 * Layer 4 Devices
@@ -16,6 +19,9 @@
 * UDP Header
 
 ---
+**Complete Performance Lab:** 3-1
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/lab-3-1.md" > Continue to Lab 4-1 </a>
+---
 
+|[Lab 3-1](/06-osi-layer-4/lab-3-1.md)|
+|---|
