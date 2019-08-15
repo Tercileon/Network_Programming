@@ -16,12 +16,12 @@
 >>> len(data)
 1000000
 >>> s.send(data)
-37722                   # <---------Sent partial data"""
+37722             <---------Sent partial data
 >>>
 
 >>> data = s.recv(10000)
 >>> len(data)
-6420   # <------------Received less than max
+6420              <---------Received less than max
 ```
 
 * Be aware that for TCP, the data stream is continuous---no concept of records, etc.
@@ -30,12 +30,12 @@
 # Client
 ...
 s.send(data)
-s.send(moredata)      #<--------
+s.send(moredata)        <------
 ...                            |
                                |
 # Sever                        |
 ...                            |
-data = s.recv(maxsize)  #<----- This recv() may return data from both of the sends cobined or less data thane even the first send
+data = s.recv(maxsize)  <----- This recv() may return data from both of the sends cobined or less data thane even the first send
 ...
 ```
 
