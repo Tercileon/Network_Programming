@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# JSON Module
+---
+
+## JSON Module
 
 JSON = JavaScript Object Notation. It's a series of key-value pairs. The key-value pairs may be nested.
 
@@ -89,4 +92,5 @@ JSON = JavaScript Object Notation. It's a series of key-value pairs. The key-val
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/struct-module.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/struct-module.md)|
+|---|
