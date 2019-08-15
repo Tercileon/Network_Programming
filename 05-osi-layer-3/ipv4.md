@@ -44,5 +44,7 @@ Seeing them in IPv4 is worth an investigation if you are an analyst/admin.
 
 ![](/assets/irlvy.jpg)
 
----|[Next Topic](/05-osi-layer-3/nat-and-pat.md)|
+---
+
+|[Next Topic](/05-osi-layer-3/nat-and-pat.md)|
 |---|
