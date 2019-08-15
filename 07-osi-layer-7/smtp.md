@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# SMTP
+---
+
+## SMTP
 
 ### Simple Mail Transfer Protocol
 
@@ -8,7 +11,7 @@ Most of the internet systems use SMTP as a method to transfer mail from one user
 
  SMTP communication between mail servers uses TCP port 25. Mail clients on the other hand, often submit the outgoing emails to a mail server on port 587 or 465. The latter port was previously deprecated, but this changed with [RFC 8314](https://tools.ietf.org/html/rfc8314) and its use is now recommended to ensure security. SMTP connections on port 25 or 587 can be secured using an extra command \([STARTTLS](https://en.wikipedia.org/wiki/Opportunistic_TLS)\).
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](/assets/image-6.png)
 
 **SMTP Fundamentals**  
  SMTP is an application layer protocol. The client who wants to send the mail opens a TCP connection to the SMTP server and then sends the mail across the connection. The SMTP server is always on listening mode. As soon as it listens for a TCP connection from any client, the SMTP process initiates a connection on that port \(25\). After successfully establishing the TCP connection the client process sends the mail instantly.
