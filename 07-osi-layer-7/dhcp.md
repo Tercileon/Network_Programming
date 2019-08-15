@@ -6,7 +6,7 @@
 
 A client/server protocol that automatically provides an Internet Protocol \(IP\) host with its IP address and other related configuration information such as the subnet mask and default gateway. RFCs 2131 and 2132 define DHCP as an Internet Engineering Task Force \(IETF\) standard based on Bootstrap Protocol \(BOOTP\), a protocol with which DHCP shares many implementation details. DHCP allows hosts to obtain required TCP/IP configuration information from a DHCP server.
 
-![](/assets/image-10.png)
+![](/assets/image_10.png)
 
 Every device on a TCP/IP-based network must have a unique IP address to access the network and its resources. Without DHCP, IP addresses for new computers or computers that are moved from one subnet to another, must be configured manually; IP addresses for computers that are removed from the network must be manually reclaimed.
 
