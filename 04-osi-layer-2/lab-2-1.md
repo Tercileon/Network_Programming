@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 2-1
+---
+
+## Lab 2-1
 
 ## Raw Socket Tutorial in Python
 
@@ -236,5 +239,10 @@ s.sendto(packet, (dest_ip , 0 ))    # put this in a loop if you want to flood th
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/04-osi-layer-2/lab-2.md" > Continue to Lab 2-2 </a>
+**Continue to Performance Lab:** 2-2
+
+---
+
+|[Lab 2-2](/04-osi-layer-2/lab-2.md)|
+|---|
 
