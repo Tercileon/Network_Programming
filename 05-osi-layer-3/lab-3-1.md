@@ -4,7 +4,7 @@
 
 ## TCP Sockets Tutorial in C
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](/assets/image%20%282%29.png)
 
 ### TCP Client:
 
@@ -273,4 +273,9 @@ int main() {
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/lab-3.md" > Continue to Lab 3-2 </a>
+**Complete Performance Lab** 3-2
+
+---
+
+|[Lab 3-2}(/05-osi-layer-3/lab-3.md)|
+|---|
