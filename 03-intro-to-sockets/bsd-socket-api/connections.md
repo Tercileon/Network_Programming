@@ -10,7 +10,7 @@
 * The type of address.
 * The type of data being transmitted.
 
-  ![](../../.gitbook/assets/sock_con.PNG)
+  ![](/assets/sock_con.PNG)
 
 ### Each endpoint of a network connection is always represented by a host and port
 
