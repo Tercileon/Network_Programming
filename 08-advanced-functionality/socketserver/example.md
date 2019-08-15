@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Continue to Next Topic </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Example
+---
 
-## Echo Example
+## Example
+
+### Echo Example
 
 Let’s look at a simple server/request handler pair that accepts TCP connectcions and echos back any data sent by the client. The only method that actually needs to be provided in the sample code is EchoRequestHandler.handle\(\), but all of the methods described above are overridden to insert [logging](https://pymotw.com/2/logging/index.html#module-logging) calls so the output of the sample program illustrates the sequence of calls made.
 
@@ -208,7 +211,7 @@ Sending : "Hello, world"
 Received: "Hello, world"
 ```
 
-## Threading
+### Threading
 
 Adding threading support to a server is as simple as including the appropriate mix-in in the class hierarchy for the server. The mix-in classes override process\_request\(\) to start a new thread or process when a request is ready to be handled, and the work is done in the new child.
 
@@ -334,4 +337,5 @@ Received: "14611: Hello, world"
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/threading-and-concurrency.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/threading-and-concurrency.md)|
+|---|
