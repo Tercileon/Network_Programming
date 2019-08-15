@@ -16,8 +16,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-![](/assets/python-cmd.PNG)
-
 If you want to run it in Linux you can use the Terminal.
 
 **\(a\) Waiting for a Connection**
