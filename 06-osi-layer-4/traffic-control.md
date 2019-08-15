@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Traffic Control
+---
+
+## Traffic Control
 
 Window scaling is determined during the handshake and it determines the maximum data to be received before being ACKed.
 
@@ -12,4 +15,5 @@ In depth analysis of these are out of the scope of this class.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/udp.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/udp.md)|
+|---|
