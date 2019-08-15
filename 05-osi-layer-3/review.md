@@ -15,5 +15,5 @@
 
 ---
 
-|[Next Topic](05-osi-layer-3/summary.md)|
+|[Next Topic](/05-osi-layer-3/summary.md)|
 |---|
