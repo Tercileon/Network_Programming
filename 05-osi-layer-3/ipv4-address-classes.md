@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# IPv4 Address Classes
+---
+
+## IPv4 Address Classes
 
 **Class A** - first bit is 0 \(First octet 1-127\)
 
@@ -16,4 +19,6 @@
 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/subnet-mask.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/subnet-mask.md)|
+|---|
