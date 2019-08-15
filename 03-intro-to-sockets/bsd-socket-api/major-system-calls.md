@@ -7,7 +7,16 @@
 
 ![](/assets/systemcalls.PNG)
 
-![](/assets/calls.PNG)
+|Primitive|Meaning|
+|  :---:  |  ---  |
+| Socket | Create a new communication end point |
+| Bind | Attach a local address to a socket|
+| Listen | Announce willingness to accept connections; give queue size |
+| Accept | Block the caller until a connection attempt arrives |
+| Connect | Actively attempt to extablish a connection |
+| Send | Send some data over the connection |
+| Recieve | Receive some data from the connection |
+| Close | Release the connection |
 
 A **CONNECTION** is a unique combination of:
 
