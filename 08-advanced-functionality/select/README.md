@@ -1,12 +1,15 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Continue to Next Topic </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# select\(\)
+---
+
+## select\(\)
 
 * Select\(\) is a potential solution for when you want to open multiple sockets for communication, but don't want your receive/send functions to block and hold up your program.
 * Select is a Linux function call that operates on file descriptors. In Linux specifically, everything is a file. This means at it's core in Linux, a network socket is a file descriptor.
 * Since it's a sys call, it works in C, Python, and any other language you can make syscalls from \(in Linux anyway\). Under the hood it is a wrapper for poll\(\).
 
-## select.select\(rlist, wlist, xlist\[, timeout\]\)
+### select.select\(rlist, wlist, xlist\[, timeout\]\)
 
 This is a straightforward interface to the Unix select system call. The first three arguments are sequences of ‘waitable objects’: either integers representing file descriptors or objects with a parameterless method named fileno\(\) returning such an integer:
 
@@ -30,7 +33,7 @@ If you have a “server” socket, put it in the potential\_readers list. If it 
 
 One very nasty problem with`select`: if somewhere in those input lists of sockets is one which has died a nasty death, the`select`will fail. You then need to loop through every single damn socket in all those lists and do a`select([sock],[],[],0)`until you find the bad one. That timeout of 0 means it won’t take long, but it’s ugly.
 
-## Socket Setup
+### Socket Setup
 
 We need to import select, and set our sockets to be non-blocking.
 
@@ -47,7 +50,7 @@ import select
     p2.listen(1)
 ```
 
-## Setting Up a Call
+### Setting Up a Call
 
 Select\(\) takes 3 parameters, each is a list of file descriptors.
 
@@ -59,17 +62,17 @@ The third parameter to see if there is any fds that threw an exception.
 
 FDs can be in multiple lists.
 
-### `# Sockets to which we expect to read`
+#### `# Sockets to which we expect to read`
 
-### `inputs = [ p1, p2 ]`
+#### `inputs = [ p1, p2 ]`
 
-### `# Sockets to which we expect to write`
+#### `# Sockets to which we expect to write`
 
-### `outputs = [ ]`
+#### `outputs = [ ]`
 
-### `readable, writable, exceptional =select.select(inputs, outputs, inputs)`
+#### `readable, writable, exceptional =select.select(inputs, outputs, inputs)`
 
-## Using It
+### Using It
 
 You do NOT need to use all return values in the for-loops below. If you only care about reading, then omit the remaining two loops.
 
@@ -97,4 +100,5 @@ socklist = [mysock1: ‘host1’, mysock2: ‘host1:8080’, mysock3: ‘host2-d
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/select/example.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/select/example.md)|
+|---|
