@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Layer 3 Devices
+---
+
+## Layer 3 Devices
 
 The Network Layer consists of hardware primarily devoted to Routing packets.
 
@@ -11,4 +14,6 @@ The Network Layer consists of hardware primarily devoted to Routing packets.
 **Layer 3 Switches** - Designed for hardware based switching which is solely based on \(destination\) IP address stored in the header of IP datagrams.  Layer forwarding is performed by specialized ASICs – it is faster than routers, but they usually lack some of the advanced functionalities of routers.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/ipv4-addresses.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/ipv4-addresses.md)|
+|---|
