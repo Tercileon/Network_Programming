@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # OSI Layer 3
 
@@ -37,4 +40,6 @@
 * Manipulate multiple sockets in a single client or server
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/references.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/references.md)|
+|---|
