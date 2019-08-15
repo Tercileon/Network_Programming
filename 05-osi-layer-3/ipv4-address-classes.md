@@ -15,7 +15,7 @@
 
 **Class E** - The following IPs 240.0.0.0 to 255.255.255.254. Used for experimentation only. No network/host specified
 
-![](../.gitbook/assets/ip_address_range.png)
+![](/assets/ip_address_range.png)
 
 
 ---
