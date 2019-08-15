@@ -65,18 +65,18 @@ Worker: 3
 Worker: 4
 ```
 
-![](../.gitbook/assets/conc1.PNG)
+![](/assets/conc1.PNG)
 
-![](../.gitbook/assets/conc2.PNG)
+![](/assets/conc2.PNG)
 
-![](../.gitbook/assets/conc3.PNG)
+![](/assets/conc3.PNG)
 
 #### To manage multiple clients
 
 * Server must always be ready to accept new connections
 * Must allow each client to operate independently \(each may be performing different tasks on the server\) 
 
-![](../.gitbook/assets/conc4.PNG)
+![](/assets/conc4.PNG)
 
 ### Example:
 
