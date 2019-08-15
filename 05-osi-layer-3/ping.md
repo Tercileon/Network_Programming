@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Ping
+---
+
+## Ping
 
 Ping is ubiquitous. It shows the connectivity status between two hosts.
 
@@ -22,4 +25,5 @@ Part of the original packet is also included to help the sender know which trans
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/icmp-errors.md" > Continue to Next Topic </a>
+|[Next Topic](/05-osi-layer-3/icmp-errors.md)|
+|---|
