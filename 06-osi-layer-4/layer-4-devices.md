@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Layer 4 Devices
+---
+
+## Layer 4 Devices
 
 The Transport Layer controls the reliability of communications through flow control, segmentation, and error control, such as: TCP and UDP. Layer 4 devices are also focused specifically on reliable packet transmission.  Gateways and Firewalls can be considered devices of Layers 4 - 7.
 
@@ -19,4 +22,5 @@ The Transport Layer controls the reliability of communications through flow cont
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/tcp-header-and-flags.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/tcp-header-and-flags.md)|
+|---|
