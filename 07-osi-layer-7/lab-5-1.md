@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 5-1
+---
 
-## HTTP Client and Server in C
+## Lab 5-1
+
+### HTTP Client and Server in C
 
 Some of the standardized RFCs are:
 
@@ -96,9 +99,9 @@ if ((new_socket = accept(server_fd, (struct sockaddr *)&address, (socklen_t*)&ad
 }
 ```
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](/assets/image-3.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](/assets/image-5.png)
 
 If we want to send `Hello from server`, first we need to construct the **Header**. Then insert a **blank line**, then we can send our message/data.
 
@@ -281,4 +284,5 @@ int main(int argc, char const *argv[])
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/layer-7-labs.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/layer-7-labs.md)|
+|---|
