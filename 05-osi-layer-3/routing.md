@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Routing
+---
+
+## Routing
 
 Packets are routed independently of each other, even if they are to the same destination.
 
@@ -15,4 +18,6 @@ When a router receives a packet, the destination IP of a packet is compared to t
 * Otherwise send it to the DEFAULT GATEWAY.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/ipv4.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/ipv4.md)|
+|---|
