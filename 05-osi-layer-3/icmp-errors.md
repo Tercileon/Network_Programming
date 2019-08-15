@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# ICMP Errors
+---
+
+## ICMP Errors
 
 Below, I've captured some anecdotal reasons you will see some common ICMP errors. They are NOT absolutes, but just things to think about should you encounter them.
 
@@ -26,4 +29,5 @@ Below, I've captured some anecdotal reasons you will see some common ICMP errors
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/icmp-header.md" > Continue to Next Topic </a>
+<a|[Next Topic](/05-osi-layer-3/icmp-header.md)|
+|---|
