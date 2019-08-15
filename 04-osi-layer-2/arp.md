@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Address Resolution Protocol
+---
 
-![](../.gitbook/assets/arp-discovery-reply-and-caching.png)
+## Address Resolution Protocol
+
+![](/assets/arp-discovery-reply-and-caching.png)
 
 ARP: [https://tools.ietf.org/html/rfc826](https://tools.ietf.org/html/rfc826)
 
@@ -17,4 +20,6 @@ For example, in IP Version 4 an address is 32 bits long. In an Ethernet local ar
 When an incoming packet destined for a host machine on a particular local area network arrives at a gateway, the gateway asks the ARP program to find a physical host or MAC address that matches the IP address. The ARP program looks in the ARP cache and, if it finds the address, provides it so that the packet can be converted to the right packet length and format and sent to the machine. If no entry is found for the IP address, ARP broadcasts a request packet in a special format to all the machines on the LAN to see if one machine knows that it has that IP address associated with it. A machine that recognizes the IP address as its own returns a reply so indicating. ARP updates the ARP cache for future reference and then sends the packet to the MAC address that replied.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/04-osi-layer-2/arp-header.md" > Continue to Next Topic </a>
+
+|[Next Topic](/04-osi-layer-2/arp-header.md)|
+|---|
