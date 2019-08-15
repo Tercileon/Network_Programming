@@ -277,5 +277,5 @@ int main() {
 
 ---
 
-|[Lab 3-2}(/05-osi-layer-3/lab-3.md)|
+|[Lab 3-2](/05-osi-layer-3/lab-3.md)|
 |---|
