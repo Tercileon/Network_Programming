@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Threading and Concurrency
+---
 
-## Thread Objects
+## Threading and Concurrency
+
+### Thread Objects
 
 The simplest way to use a Thread is to instantiate it with a target function and call start\(\) to let it begin working.
 
@@ -75,7 +78,7 @@ Worker: 4
 
 ![](../.gitbook/assets/conc4.PNG)
 
-## Example:
+### Example:
 
 In order to show an example of threading on a server to handle concurrent connections, we're going to use this example of an echo server that sends an echo reply of the incoming message back to the client.
 
@@ -143,7 +146,7 @@ Connected with 127.0.0.1:60239
 
 Each terminal is able to connect to the server.  However, the server cannot communicate with all three and will only respond to one message. So we need to create separate handlers to manage each connection.
 
-### Handling Connections
+#### Handling Connections
 
 One way to achieve this is using threads. The main server program accepts a connection and creates a new thread to handle communication for the connection, and then the server goes back to accept more connections.
 
@@ -213,6 +216,10 @@ Start a new thread and return its identifier. The thread executes the function _
 [https://docs.python.org/2/library/thread.html](https://docs.python.org/2/library/thread.html)
 
 ---
+
 **End of Networkprogramming**
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md"> Continue to C Programming </a>
+---
+
+|<a href="https://github.com/Tercileon/A-La-Cart" > Return to Cyber A-La-Carte </a>|
+|---|
