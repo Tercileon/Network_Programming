@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# IPv6
+---
+
+## IPv6
 
 IPv6 is the latest version. It returns to the cleaner design of IP that IPv4 had before attempts to curb exhaustion happened.
 
@@ -10,7 +13,7 @@ Differences from IPv4:
 * Multicasting, QoS, IPSec, and Encryption is built in
 * IPv6 can auto-configure itself in a local network
 
-![](../.gitbook/assets/ip4-vs-ip6.png)
+![](/assets/ip4-vs-ip6.png)
 
 Version \(4 bits\) – Set 6 for IPv6.
 
@@ -43,4 +46,6 @@ Source / Destination \(128 bits\) - Do not change during routing.
 135 = Mobility \(currently without upper-layer header\) - Parameters used with Mobile IPv6.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/ipv6-addresses.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/ipv6-addresses.md)|
+|---|
