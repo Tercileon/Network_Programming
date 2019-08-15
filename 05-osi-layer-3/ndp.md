@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# NDP
+---
+
+## NDP
 
 Neighbor Discovery Protocol is a collection of ICMPv6 messages for auto configuration, discovery, and awareness.
 
@@ -21,4 +24,6 @@ Read the RFC! It tells you how to fill out values in previous headers!
 **Redirect** - If you see traffic destined somewhere, and you know a better route to a given host you can send this to have the sender redirect their traffic
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/icmp.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/icmp.md)|
+|---|
