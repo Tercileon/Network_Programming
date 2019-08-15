@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# DNS - MX Records
+---
+
+## DNS - MX Records
 
 MX records are used to define the mail exchanges that are used for the domain. This helps email messages arrive at your mail server correctly.
 
@@ -32,4 +35,5 @@ mail2   IN  A       222.222.222.222
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/dns-srv-records.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/dns-srv-records.md)|
+|---|
