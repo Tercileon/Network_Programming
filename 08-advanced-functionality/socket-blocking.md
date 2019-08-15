@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Continue to Next Topic </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Socket Blocking
+---
+
+## Socket Blocking
 
 By default, TCP sockets are placed in a blocking mode. This means the control is not returned to your program until some specific operation is complete. For example, if you call the`connect()`API, the connection blocks your program until the operation is complete. On many occasions, you don't want to keep your program waiting forever, either for a response from the server or for any error to stop the operation. For example, when you write a web browser client that connects to a web server, you should consider a stop functionality that can cancel the connection process in the middle of this operation. This can be achieved by placing the socket in the non-blocking mode.
 
-![](../.gitbook/assets/blocking.PNG)
+![](/assets/blocking.PNG)
 
 ## How to do it...
 
@@ -41,10 +44,11 @@ $ python 1_9_socket_modes.py
 Trivial Server launched on socket: ('127.0.0.1', 51410)
 ```
 
-## How it works...
+### How it works...
 
 In this example, we enable blocking on a socket by setting the value`1`in the`setblocking()`method. Similarly, you can unset the value`0`in this method to make it non-blocking.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/select/README.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/select/README.md)|
+|---|
