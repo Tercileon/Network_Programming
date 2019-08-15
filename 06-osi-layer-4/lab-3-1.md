@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 4-1
+---
 
-## Raw Sockets Tutorial in C
+## Lab 4-1
+
+### Raw Sockets Tutorial in C
 
 #### Packet = \(Ethernet Header\) + IP Header + TCP Header + Data
 
@@ -416,4 +419,5 @@ int main (void)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/lab-4.md" > Continue to Next Topic </a>
+|[Lab 4](/06-osi-layer-4/lab-4.md)|
+|---|
