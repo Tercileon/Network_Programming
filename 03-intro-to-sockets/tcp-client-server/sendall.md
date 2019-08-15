@@ -12,7 +12,6 @@
 * recv() length is only a maximum limit
 
 ```
-
 >>> len(data)
 1000000
 >>> s.send(data)
@@ -22,6 +21,7 @@
 >>> data = s.recv(10000)
 >>> len(data)
 6420              <---------Received less than max
+>>>
 ```
 
 * Be aware that for TCP, the data stream is continuous---no concept of records, etc.
@@ -36,8 +36,7 @@ s.send(moredata)        <------
 # Sever                        |
 ...                            |
 data = s.recv(maxsize)  <----- This recv() may return data from both of the sends cobined
-                               or less data thane even the first send
-...
+...                            or less data thane even the first send
 ```
 
 * A lot depends on OS buffers, network bandwidth, congestion, etc.
