@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# HTTPS
+---
+
+## HTTPS
 
 ###  **HyperText Transfer Protocol Secure \(HTTPS\):**
 
@@ -22,4 +25,5 @@ When a trusted SSL Digital Certificate is used during a [HTTPS](https://www.inst
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/smtp.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/smtp.md)|
+|---|
