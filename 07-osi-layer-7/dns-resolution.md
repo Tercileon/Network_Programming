@@ -18,4 +18,4 @@
 ---
 
 |[Next Topic](/07-osi-layer-7/dig.md)|
-|---\
+|---|
