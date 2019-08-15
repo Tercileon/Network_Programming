@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# UDP
+---
+
+## UDP
 
 UDP is connectionless and best effort delivery. Error checking is limited to a UDP checksum.
 
@@ -18,4 +21,5 @@ Protocols and applications designed to handle a high volume of traffic can often
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/udp-header.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/udp-header.md)|
+|---|
