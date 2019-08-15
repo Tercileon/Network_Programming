@@ -419,5 +419,9 @@ int main (void)
 
 ---
 
-|[Lab 4](/06-osi-layer-4/lab-4.md)|
+**Complete Performance Lab:** 4-2
+
+---
+
+|[Lab 4-2](/06-osi-layer-4/lab-4.md)|
 |---|
