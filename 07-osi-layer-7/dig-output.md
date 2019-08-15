@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Dig - Output
+---
 
-![](../.gitbook/assets/dig1.PNG)
+## Dig - Output
+
+![](/assets/dig1.PNG)
 
 * **Header:** This displays the dig command version number, the global options used by the dig command, and some additional header information.
 * **QUESTION SECTION:** This displays the question it asked the DNS. i.e. This is your input. Since we said ‘**dig redhat.com**’, and the default type dig command uses an A record, it indicates in this section that we asked for the A record of the redhat.com website.
@@ -31,4 +34,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/intro-to-http.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/intro-to-http.md)|
+|---|
