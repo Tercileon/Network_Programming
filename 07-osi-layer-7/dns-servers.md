@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# DNS Servers
+---
+
+## DNS Servers
 
 The system is very simple at a high-level overview, but is very complex as you look at the details. Overall though, it is a very reliable infrastructure that has been essential to the adoption of the internet as we know it today.
 
-## Root Servers
+### Root Servers
 
 The Internet root name servers manage DNS server information for the Web's top-level domains \(TLD\) \(like ".com" and ".uk"\), specifically the names and IP addresses of the original \(called _authoritative_\) DNS servers responsible for answering queries about each TLD individually.
 
@@ -14,7 +17,7 @@ If a request for "www.wikipedia.org" is made to the root server, the root server
 
 It will instead find a record for the "org" TLD and give the requesting entity the address of the name server responsible for "org" addresses.
 
-## TLD Servers {#tld-servers}
+### TLD Servers {#tld-servers}
 
 The requester then sends a new request to the IP address \(given to it by the root server\) that is responsible for the top-level domain of the request.
 
@@ -24,17 +27,17 @@ Once again, the requester will look for "www.wikipedia.org" in its zone files. I
 
 However, it will find a record listing the IP address of the name server responsible for "wikipedia.org". This is getting much closer to the answer we want.
 
-## Domain-Level Name Servers {#domain-level-name-servers}
+### Domain-Level Name Servers {#domain-level-name-servers}
 
 At this point, the requester has the IP address of the name server that is responsible for knowing the actual IP address of the resource. It sends a new request to the name server asking, once again, if it can resolve "www.wikipedia.org".
 
 The name server checks its zone files and it finds that it has a zone file associated with "wikipedia.org". Inside of this file, there is a record for the "www" host. This record tells the IP address where this host is located. The name server returns the final answer to the requester.
 
-## Resolving Name Server
+### Resolving Name Server
 
 When a DNS request is made it is usually sent to a Resolving Name Server. They are intermediaries for the users with cached queries to resolve addresses quickly. If the request is not cached, it is then passed to the Root Servers and proceeds to go through the process of "resolving" the request.
 
-## Zone Files
+### Zone Files
 
 A zone file is a simple text file that contains the mappings between domain names and IP addresses. This is how the DNS system finally finds out which IP address should be contacted when a user requests a certain domain name.
 
@@ -44,4 +47,5 @@ However, don't confuse Zones with Domains, a zone will start as a storage for a 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/dns-resource-records.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/dns-resource-records.md)|
+|---|
