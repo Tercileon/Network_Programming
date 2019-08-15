@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Summary
+---
+
+## Summary
 
 * Introduction to Internet Protocol
 * Layer 3 Devices
@@ -26,4 +29,7 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/lab-3-1.md" > Continue to Lab 3-1 </a>
+**Complete Performance Lab** 3-1
+
+|[Next Topic](/05-osi-layer-3/lab-3-1.md)|
+|---|
