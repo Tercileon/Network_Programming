@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# SOA Records
+---
+
+## SOA Records
 
 The **Start of Authority**, or SOA, record identifies information about the domain and is a mandatory record in all zone files. It must be the first real record in a file \(although $ORIGIN or $TTL specifications may appear above\). It is also one of the most complex.
 
@@ -43,4 +46,5 @@ In addition to the DNS record fields, it contains more information:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/dns-a-and-aaaa-records.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/dns-a-and-aaaa-records.md)|
+|---|
