@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# HTTP Responses
+---
+
+## HTTP Responses
 
 HTTP Responses conclude the transaction. Other transactions may be required to get other resources found on the page. Remember that \r\n separates the header from the actual data.
 
-## Initial Response Line \(Status Line\)
+### Initial Response Line \(Status Line\)
 
 The initial response line, called the status line, also has three parts separated by spaces: the HTTP version, a response status code that gives the result of the request, and an English reason phrase describing the status code. Typical status lines are:
 
@@ -55,4 +58,5 @@ Notes:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/07-osi-layer-7/http-status-codes.md" > Continue to Next Topic </a>
+|[Next Topic](/07-osi-layer-7/http-status-codes.md)|
+|---|
