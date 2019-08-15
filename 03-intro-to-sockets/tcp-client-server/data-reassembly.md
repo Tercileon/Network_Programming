@@ -33,15 +33,7 @@ message = "".join(fragments)
 ```
 * Don't use string concat(+=). It's slow.
 
-## If there is no more data being transmitted the _**while**_ loop will _**break_.**
-
----
-
-![](/assets/chunk1.PNG)
-
-![](/assets/chunk.PNG)
-
-## If there is not any more data being transmitted the _**while**_ loop will **_break_.**
+## If there is no more data being transmitted the _**while**_ loop will **_break_.**
 
 ---
 
