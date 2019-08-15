@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Continue to Next Topic </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Example
+---
+
+## Example
 
 ```text
 import select, socket, sys, Queue
@@ -65,4 +68,5 @@ This is how sockets work at a lower level. However, in most cases, there is no n
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/socketserver/README.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/socketserver/README.md)|
+|---|
