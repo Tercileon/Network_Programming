@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Error Handling
+---
+
+## Error Handling
 
 **If any of the socket functions fail then python throws an exception called socket.error which must be caught.**
 
@@ -47,4 +50,5 @@ This exception is raised when a timeout occurs on a socket which has had timeout
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/json-module.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/json-module.md)|
+|---|
