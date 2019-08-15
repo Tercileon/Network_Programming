@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Summary
 
@@ -14,8 +17,12 @@
 * ARP Header
 * RARP
 
-
 \*\*\*\*
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/04-osi-layer-2/lab-2-1.md" > Continue to Lab 2-1 </a>
+
+**Continue to Performance Lab:** 2-1
+
+
+|[Lab 2-1](/04-osi-layer-2/lab-2-1.md)|
+|---|
