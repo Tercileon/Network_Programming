@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# IPv6 Address Types
+---
+
+## IPv6 Address Types
 
 Generally there are three types of addresses:
 
@@ -34,4 +37,5 @@ NOTE: This list is not exhaustive.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/unicast.md" > Continue to Next Topic </a>
+|[Next Topic](/05-osi-layer-3/unicast.md)|
+|---|
