@@ -4,7 +4,7 @@
 
 ## A global multicast address can be broken down as follows:
 
-![](../.gitbook/assets/ipv6multicast.png)
+![](/assets/ipv6multicast.png)
 
 [https://mrncciew.com/2013/04/05/ipv6-basics/](https://mrncciew.com/2013/04/05/ipv6-basics/)
 
@@ -24,4 +24,5 @@ NOTE: This list is not exhaustive.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/anycast.md" > Continue to Next Topic </a>
+|[Next Topic](/05-osi-layer-3/anycast.md)|
+|---|
