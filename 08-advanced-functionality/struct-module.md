@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Struct Module
+---
+
+## Struct Module
 
 Struct allows you to pack values into specified data types/sizes and endianess. Packed data is represented by a string of hex bytes. Struct will also unpack data from the hex string and provide you a tuple of the values.
 
@@ -18,11 +21,11 @@ It uses a format string and variable arguments \(like print or printf in C\)
 
 `(1, 2, 3)`
 
-## Functions vs. Struct Class
+### Functions vs. Struct Class
 
 There are a set of module-level functions for working with structured values, and there is also the Struct class \(new in Python 2.5\). Format specifiers are converted from their string format to a compiled representation, similar to the way regular expressions are. The conversion takes some resources, so it is typically more efficient to do it once when creating a Struct instance and call methods on the instance instead of using the module-level functions. All of the examples below use the Struct class.
 
-## Packing and Unpacking
+### Packing and Unpacking
 
 Structs support\_packing\_data into strings, and\_unpacking\_data from strings using format specifiers made up of characters representing the type of the data and optional count and endianess indicators. For complete details, refer to the standard library documentation.
 
@@ -72,7 +75,7 @@ $ python struct_unpack.py
 Unpacked Values: (1, 'ab', 2.700000047683716)
 ```
 
-### See also:
+#### See also:
 
 **struct:** The standard library documentation for this module.  [https://docs.python.org/2.7/library/struct.html](https://docs.python.org/2.7/library/struct.html%29%29\)
 
@@ -84,4 +87,5 @@ Unpacked Values: (1, 'ab', 2.700000047683716)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/08-advanced-functionality/encode-decode.md" > Continue to Next Topic </a>
+|[Next Topic](/08-advanced-functionality/encode-decode.md)|
+|---|
