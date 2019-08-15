@@ -23,7 +23,7 @@ All bits in the IP address that are masked with 1's determine the NETWORK, and a
 
 ## Class A Subnets
 
-![](../.gitbook/assets/subnet.png)
+![](/assets/subnet.png)
 
 If you bitwise AND an IP and a subnet mask, you will get the network IP.
 
