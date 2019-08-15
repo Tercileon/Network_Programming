@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# NAT and PAT
+---
+
+## NAT and PAT
 
 ## NAT - Network Address Translation
 
@@ -13,4 +16,5 @@
 * Used to conserve IPv4 addresses.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/ipv6.md" > Continue to Next Topic </a>
+|[Next Topic](/05-osi-layer-3/ipv6.md)|
+|---|
