@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# SYN and ACK
+---
+
+## SYN and ACK
 
 Sequence numbers indicate the most recent piece of data sent.
 
@@ -29,4 +32,5 @@ Acknowledgement numbers indicate the next byte expected.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/sack.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/sack.md)|
+|---|
