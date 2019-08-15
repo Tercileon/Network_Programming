@@ -11,7 +11,7 @@ An extension of the [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/
 
 HTTPS pages typically use one of two secure protocols to encrypt communications - SSL \(Secure Sockets Layer\) or TLS \(Transport Layer Security\). Both the TLS and SSL protocols use what is known as an 'asymmetric' Public Key Infrastructure \(PKI\) system. An asymmetric system uses two 'keys' to encrypt communications, a 'public' key and a 'private' key. Anything encrypted with the public key can only be decrypted by the private key and vice-versa.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](/assets/image%20%284%29.png)
 
 When you request a HTTPS connection to a webpage, the website will initially send its SSL certificate to your browser. This certificate contains the public key needed to begin the secure session. Based on this initial exchange, your browser and the website then initiate the 'SSL handshake'. The SSL handshake involves the generation of shared secrets to establish a uniquely secure connection between yourself and the website.
 
