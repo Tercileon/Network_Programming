@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# RST
+---
+
+## RST
 
 Both RSTs and FINs \(eventually\) result in a teardown, but the previous state listing did not reference RST at all.
 
@@ -12,4 +15,5 @@ In TCP, a RST usually takes the place of an ICMP Port Unreachable message for cl
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/06-osi-layer-4/traffic-control.md" > Continue to Next Topic </a>
+|[Next Topic](/06-osi-layer-4/traffic-control.md)|
+|---|
