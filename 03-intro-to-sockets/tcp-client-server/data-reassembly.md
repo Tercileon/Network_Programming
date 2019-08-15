@@ -41,7 +41,7 @@ message = "".join(fragments)
 
 ![](/assets/chunk.PNG)
 
-## If there is not any more data being transmitted the _**while**_ loop will _ **break_.**
+## If there is not any more data being transmitted the _**while**_ loop will **_break_.**
 
 ---
 
