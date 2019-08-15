@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Routing Protocols
+---
+
+## Routing Protocols
 
 #### Routers operate on Layer 3.
 
@@ -39,4 +42,6 @@ Routing tables are populated by the information exchanges dictated by the specif
 Static routes may also be set, with arbitrary weights, by a network administrator.  
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/routing.md" > Continue to Next Topic </a>
+
+|[Next Topic](/05-osi-layer-3/routing.md)|
+|---|
