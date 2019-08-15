@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# IPv4
+---
 
-![](../.gitbook/assets/ethernet-frame-explained.png)
+## IPv4
+
+![](/assets/ethernet-frame-explained.png)
 
 * Version - Set to 4 for IPv4
 * Header Length – Size of IP header
@@ -39,7 +42,7 @@ IPv4 has the ability for optional headers, but they are typically not used.
 
 Seeing them in IPv4 is worth an investigation if you are an analyst/admin.
 
-![](../.gitbook/assets/irlvy.jpg)
+![](/assets/irlvy.jpg)
 
----
-<a href="https://github.com/CyberTrainingUSAF/08-Network-Programming/blob/master/05-osi-layer-3/nat-and-pat.md" > Continue to Next Topic </a>
+---|[Next Topic](/05-osi-layer-3/nat-and-pat.md)|
+|---|
