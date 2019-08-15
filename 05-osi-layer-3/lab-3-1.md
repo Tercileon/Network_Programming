@@ -4,7 +4,7 @@
 
 ## TCP Sockets Tutorial in C
 
-![](/assets/image%20%282%29.png)
+![](/assets/image-2.png)
 
 ### TCP Client:
 
