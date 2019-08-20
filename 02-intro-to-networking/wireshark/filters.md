@@ -20,7 +20,7 @@
 * arp
 * icmpv6
 
-![](../../.gitbook/assets/wireshark-display-filters-59512e443df78cae8136b049.png)
+![](/assets/wireshark-display-filters-59512e443df78cae8136b049.png)
 
 One of the most important feature sets in Wireshark is its filter capabilities, especially when you're dealing with files that are significant in size. Capture filters can be set before the fact, instructing Wireshark to only record those packets that meet your specified criteria.
 
