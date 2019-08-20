@@ -13,7 +13,7 @@ If you need to download Netcat, there should be a copy in the download file:
 
 To verify Netcat is working correctly type the command: **"nc -h"**
 
-![](../.gitbook/assets/getfile.jpg)
+![](/assets/getfile.jpg)
 
 You should see something similar to the output above. This is the NetCat help menu. Which gives you the basic format for creating a Client and a Server, as well as all the options.
 
