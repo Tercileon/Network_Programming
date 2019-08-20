@@ -13,7 +13,7 @@ Now that you've recorded some network data it's time to take a look at the captu
 2. The **packet** window which shows the packet \(and frame\) breakdowns of the selected packet from the traffic window.
 3. The _**hexdump**_ ****window which shows the raw bytes of the highlighted section highlighted in the packet window.
 
-![](../../.gitbook/assets/wireshark-captured-data-panes-59512e265f9b58f0fc7b1f17.png)
+![](/assets/wireshark-captured-data-panes-59512e265f9b58f0fc7b1f17.png)
 
 **Packet List**
 
