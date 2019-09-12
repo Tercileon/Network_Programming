@@ -3,7 +3,7 @@
 
 ---
 
-# OSI Layers
+## OSI Layers
 
 ![](/assets/84433547__Web.png)
 
