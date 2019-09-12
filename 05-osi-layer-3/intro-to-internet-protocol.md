@@ -22,5 +22,6 @@ These modifications included NAT, PAT, and subnetting.
 The supply of IPv4 has been exhausted \(most recently North America in Sept 2015\).
 
 ---
+
 |[Next Topic](/05-osi-layer-3/layer-3-devices.md)|
 |---|
