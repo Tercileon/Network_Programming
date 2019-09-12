@@ -28,5 +28,6 @@ IPv6
 ![](/assets/ipv6.PNG)
 
 ---
+
 |[Next Topic](/05-osi-layer-3/ipv4-address-classes.md)|
 |---|
